@@ -10,3 +10,5 @@ My learning projects :
  https://amkr9955.github.io/WEB_DEV_PROJECTS/RegistrationForm
 5.  PROJECT 5:LINK:
   https://amkr9955.github.io/WEB_DEV_PROJECTS/Rothko_Painting
+6.  PROJECT 6:LINK:
+  https://amkr9955.github.io/WEB_DEV_PROJECTS/CSSFlexbox_gallery  
