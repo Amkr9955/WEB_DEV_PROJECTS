@@ -1,7 +1,10 @@
 # WEB_DEV_PROJECTS :
 My learning projects :
-1.  PROJECT 1:LINK:
-2.  [![Skills used](https://skillicons.dev/icons?i=html,css,wasm)](https://skillicons.dev)
+
+1.  PROJECT 1:CSS Color Makers
+   ![image](https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/afd42b23-19a4-4644-a923-509451bc0cc3)
+   [LINK:](https://amkr9955.github.io/WEB_DEV_PROJECTS/csscolormaker/)
+   [![Skills used](https://skillicons.dev/icons?i=html,css,wasm)](https://skillicons.dev)
  https://amkr9955.github.io/WEB_DEV_PROJECTS/csscolormaker
 2.  PROJECT 2:LINK:
  https://amkr9955.github.io/WEB_DEV_PROJECTS/catphotopage
