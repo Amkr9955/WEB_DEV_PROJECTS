@@ -1,6 +1,7 @@
 # WEB_DEV_PROJECTS :
 My learning projects :
 1.  PROJECT 1:LINK:
+2.  [![Skills used](https://skillicons.dev/icons?i=html,css,wasm)](https://skillicons.dev)
  https://amkr9955.github.io/WEB_DEV_PROJECTS/csscolormaker
 2.  PROJECT 2:LINK:
  https://amkr9955.github.io/WEB_DEV_PROJECTS/catphotopage
