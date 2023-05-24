@@ -12,3 +12,5 @@ My learning projects :
   https://amkr9955.github.io/WEB_DEV_PROJECTS/Rothko_Painting
 6.  PROJECT 6:LINK:
   https://amkr9955.github.io/WEB_DEV_PROJECTS/CSSFlexbox_gallery  
+7.  PROJECT 7:LINK
+  https://amkr9955.github.io/WEB_DEV_PROJECTS/Typography_NutritionLabel  
