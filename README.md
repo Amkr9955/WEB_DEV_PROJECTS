@@ -37,10 +37,14 @@ My learning projects :
        <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/fe7bf109-bcf0-48e8-ac20-b547f631f125" width="200" height="180">        
           
 7.  **PROJECT 7:Typography_NutritionLabel[[LINK]( https://amkr9955.github.io/WEB_DEV_PROJECTS/Typography_NutritionLabel/)]**<br>
-       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/eb19af19-b1c1-4029-a5a0-a4e765002e92" width="200" height="180">  
+       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/eb19af19-b1c1-4029-a5a0-a4e765002e92" width="200" height="180">
+
+8.  **PROJECT 7:Flexbox_basic responsive[[LINK]( https://amkr9955.github.io/WEB_DEV_PROJECTS/flexbox_basicpro/)]**<br>
+       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/a16a9e5f-e3b3-4d7c-b96e-b44578a64776" width="200" height="180">
 
 <hr>
 <p align="center">These projects are part of my freeCodeCamp Responsive Web Design Certifications</p>
+
 
 
   
