@@ -52,7 +52,10 @@ My learning projects :
        <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/f9e99fd5-651c-411a-907e-e7f9adfaa88f" width="200" height="180">
 
 12.  **PROJECT 12:Piano[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/Piano/)]**<br>
-       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/7635489d-c5fa-4e8d-89c4-b681f387f083" width="200" height="180">        
+       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/7635489d-c5fa-4e8d-89c4-b681f387f083" width="200" height="180">
+
+13.  **PROJECT 13:Piano[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/Tribute_Page/)]**<br>
+       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/2620f374-d96a-4b54-b538-3634bcb674fe" width="200" height="180">             
        
 
 <hr>
@@ -61,6 +64,7 @@ My learning projects :
 
 
   
+
 
 
    
