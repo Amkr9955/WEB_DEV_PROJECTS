@@ -45,11 +45,14 @@ My learning projects :
 9.  **PROJECT 9:Accessibility_Quiz[[LINK]( https://amkr9955.github.io/WEB_DEV_PROJECTS/Accessibility_Quiz/)]**<br>
        <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/ff99bff9-61a7-4e63-aad7-d1b7fa4f81c8" width="200" height="180"> 
        
-10.  **PROJECT 9:CSS_Pseudo_Selector Balance_Sheet[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/Pseudo_selector_Balsheet/)]**<br>
+10.  **PROJECT 10:CSS_Pseudo_Selector Balance_Sheet[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/Pseudo_selector_Balsheet/)]**<br>
        <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/71b9b56d-caf5-4d0f-b101-b546f6c340b8" width="200" height="180">
        
-11.  **PROJECT 10:Picasso_Painting[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/Picasso_Painting/)]**<br>
-       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/f9e99fd5-651c-411a-907e-e7f9adfaa88f" width="200" height="180">   
+11.  **PROJECT 11:Picasso_Painting[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/Picasso_Painting/)]**<br>
+       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/f9e99fd5-651c-411a-907e-e7f9adfaa88f" width="200" height="180">
+
+12.  **PROJECT 12:Piano[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/Piano/)]**<br>
+       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/7635489d-c5fa-4e8d-89c4-b681f387f083" width="200" height="180">        
        
 
 <hr>
@@ -58,5 +61,6 @@ My learning projects :
 
 
   
+
 
    
