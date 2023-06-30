@@ -54,15 +54,19 @@ My learning projects :
 12.  **PROJECT 12:Piano[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/Piano/)]**<br>
        <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/7635489d-c5fa-4e8d-89c4-b681f387f083" width="200" height="180">
 
-13.  **PROJECT 13:Piano[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/Tribute_Page/)]**<br>
+13.  **PROJECT 13:Tribute_Page[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/Tribute_Page/)]**<br>
        <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/2620f374-d96a-4b54-b538-3634bcb674fe" width="200" height="180">
 
-14.  **PROJECT 14:Piano[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/Responsive_City_Skyline/)]**<br>
+14.  **PROJECT 14:Responsive_City_Skyline[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/Responsive_City_Skyline/)]**<br>
        <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/a56ee7f8-c5b4-40dc-8f87-faa846cec6e2" width="200" height="180">                  
-       
+
+15.  **PROJECT 14:CSS_Grid_Magazine[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/CSS_Grid_Magazine/)]**<br>
+       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/96764b75-a644-45b7-a981-c27a80a3c6ea" width="200" height="180">                  
+              
 
 <hr>
 <p align="center">These projects are part of my freeCodeCamp Responsive Web Design Certifications</p>
+
 
 
 
