@@ -60,12 +60,17 @@ My learning projects :
 14.  **PROJECT 14:Responsive_City_Skyline[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/Responsive_City_Skyline/)]**<br>
        <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/a56ee7f8-c5b4-40dc-8f87-faa846cec6e2" width="200" height="180">                  
 
-15.  **PROJECT 14:CSS_Grid_Magazine[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/CSS_Grid_Magazine/)]**<br>
-       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/96764b75-a644-45b7-a981-c27a80a3c6ea" width="200" height="180">                  
+15.  **PROJECT 15:CSS_Grid_Magazine[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/CSS_Grid_Magazine/)]**<br>
+       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/96764b75-a644-45b7-a981-c27a80a3c6ea" width="200" height="180">
+
+16.  **PROJECT 16:Animated_Ferris_Wheel[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/Animated_Ferris_Wheel/)]**<br>
+       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/b865e886-3200-4514-975d-fa3d2de892ca" width="200" height="180">                    
               
 
 <hr>
 <p align="center">These projects are part of my freeCodeCamp Responsive Web Design Certifications</p>
+
+
 
 
 
