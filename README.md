@@ -67,11 +67,15 @@ My learning projects :
        <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/b865e886-3200-4514-975d-fa3d2de892ca" width="200" height="180">
 
 17.  **PROJECT 17:CSS_Penguin[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/CSS_Penguin/)]**<br>
-       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/22cb72a9-3688-46f2-b350-6232f9858ad3" width="200" height="180">                         
+       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/22cb72a9-3688-46f2-b350-6232f9858ad3" width="200" height="180">
+
+18.  **PROJECT 18:Technical_Documentation[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/Technical_Documentation/)]**<br>
+       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/1135aef3-9beb-4f35-8494-175868c1bd45" width="200" height="180">                              
               
 
 <hr>
-<p align="center">These projects are part of my freeCodeCamp Responsive Web Design Certifications</p>
+
+
 
 
 
