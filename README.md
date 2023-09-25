@@ -70,10 +70,14 @@ My learning projects :
        <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/22cb72a9-3688-46f2-b350-6232f9858ad3" width="200" height="180">
 
 18.  **PROJECT 18:Technical_Documentation[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/Technical_Documentation/)]**<br>
-       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/1135aef3-9beb-4f35-8494-175868c1bd45" width="200" height="180">                              
+       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/1135aef3-9beb-4f35-8494-175868c1bd45" width="200" height="180">
+
+19.  **PROJECT 19:Product_Landing_Page[[LINK](https://amkr9955.github.io/WEB_DEV_PROJECTS/Product_Landing_Page/)]**<br>
+       <img src="https://github.com/Amkr9955/WEB_DEV_PROJECTS/assets/92258606/0cce0bc0-0c87-4a4d-8744-7399e5d0e124" width="200" height="180">                                  
               
 
 <hr>
+
 
 
 
